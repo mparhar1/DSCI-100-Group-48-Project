@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# UBC DSCI 100 Final Project
+## Investigating the Covid Pandemic Impacts on the Gross Domestic Product of Canada
